@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- DEFAULT -->
+    <string name="app_name">Unbeatable TicTacToe</string>
+    <!-- This is an ad unit ID for a test ad. Replace with your own banner ad unit id. -->
+    <string name="banner_ad_unit_id">ca-app-pub-1769937314831294/5070267361</string>
+
+    <!-- HOME FRAGMENT -->
+    <string name="human_vs_human">Human Vs Human</string>
+    <string name="human_vs_ai">Human Vs AI</string>
+    <string name="ai_vs_human">AI Vs Human</string>
+
+    <!-- GAME FRAGMENT -->
+    <string name="back">Back to Home</string>
+    <string name="new_game">New Game</string>
+
+    <string name="x_won">Player X Won!</string>
+    <string name="o_won">Player O Won!</string>
+    <string name="draw">It\'s a draw!</string>
+
+</resources>
